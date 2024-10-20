@@ -1,5 +1,5 @@
 matplotlib
-sklearn-pandas==2.2.0
-scikit-learn==1.5.2
+sklearn-pandas
+scikit-learn=
 pandas
-seaborn==0.13.2
+seaborn
