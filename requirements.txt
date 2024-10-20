@@ -3,3 +3,4 @@ sklearn-pandas
 scikit-learn
 pandas
 seaborn
+xgboost
